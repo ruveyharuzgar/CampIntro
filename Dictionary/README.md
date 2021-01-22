@@ -1,6 +1,7 @@
 # Dictionary
 ### Explanation
 
+< pre >
 class MyDictionary<T>
 {
 //Satır 9:Tipini main de belirteceğim şimdilik de T ile adlandırdığım bir dizi yapısı tanımladım.Bunu fonksiyona iş yapması için göndericem,kullanıcağım dizim.
@@ -41,3 +42,4 @@ Eklendi->Ali
 Eklendi->Ahmet
 
 }
+< /pre >
