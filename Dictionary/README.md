@@ -1,9 +1,10 @@
 # Dictionary
 ### Explanation
 
-< pre >
+
 class MyDictionary<T>
 {
+< pre >
 //Satır 9:Tipini main de belirteceğim şimdilik de T ile adlandırdığım bir dizi yapısı tanımladım.Bunu fonksiyona iş yapması için göndericem,kullanıcağım dizim.
 //Satır 14:Bir list yapısı oluşturduğum an bu satırı tekrar görücez ve dizi sıfırlanıcak.
  OUTPUT: 
